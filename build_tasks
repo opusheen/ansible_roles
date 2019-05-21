@@ -6,7 +6,6 @@
   with_items:
     - maven
     - git
-    - tomcat8
     - default-jdk
 
 - name: set java_home
